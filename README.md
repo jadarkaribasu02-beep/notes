@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **web development and python**
 
 
-- 👨‍💻 All of my projects are available at [karibasu](https://jadarkaribasu02-beep.github.io/web/)
+- 👨‍💻 All of my projects are available at [https://github.com/jadarkaribasu02-beep)
 
 - 📫 How to reach me **jadarkaribasu02@gmail.com**
 
